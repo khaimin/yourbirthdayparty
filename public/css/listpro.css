@@ -1,0 +1,25 @@
+
+.portfolio-filter > li >a{
+  width: 200px;
+  font-size: 17px;
+}
+.recent-work-inner p {
+	color: black;
+	font-family: Lato-Thin,'Open Sans', sans-serif;
+	font-weight: 600;
+	text-align: justify;
+}
+.recent-work-wrap{
+	border: 1px solid #E1E1E1;
+}
+.recent-work-wrap a img{
+	border-radius: 5px;
+}
+.fixname{
+	height: 60px;
+}
+#portfolio{
+    background-image: url('../images/bg.png');
+}
+       
+
